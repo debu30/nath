@@ -1,0 +1,112 @@
+/* header section */
+
+.header-title {
+    font-family: 'Work Sans';
+    position: absolute;
+    width: 525px;
+    height: 228px;
+    left: 845px;
+    top: 216px;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+    color: #151414;
+}
+
+.header-description {
+    font-family: 'Work Sans';
+    text-align: right;
+    position: absolute;
+    width: 494px;
+    height: 78px;
+    left: 876px;
+    top: 468px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    margin-top: 60px;
+}
+
+.O {
+    color: orangered;
+}
+
+/* failure section */
+
+.failure-image {
+    width: 1072px;
+    height: 723.3px;
+    left: 206px;
+    top: 939px;
+    margin-right: 200px;
+}
+
+.failure-content {
+    font-family: 'Work Sans';
+    position: absolute;
+    width: 416px;
+    height: 400px;
+    left: 862px;
+    top: 1178px;
+}
+
+.failure-image {
+    margin-left: 206px;
+}
+
+/* My plans */
+
+.plans {
+    display: flex;
+    justify-content: space-around;
+}
+
+.plan-title {
+    text-align: center;
+    font-family: 'work sans';
+    margin: 100px;
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+}
+
+.plan-title-text {
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+}
+
+.plan-description{
+    color: #737272;
+    text-align: center;
+    font-weight: 500;
+
+font-family: 'Work Sans';
+}
+.icons{
+    border-radius: 5px;
+    padding: 20px;
+    align-items: center;
+    margin-left: 20px;
+}
+.icons1{
+    border-radius: 5px;
+    padding: 20px;
+    align-items: center;
+    margin-left: 90px;
+}
+
+
+}
+.img-double{
+    {
+        position:relative;
+}
+
+.img2{
+position: absolute;
+top: 30px;
+left: 30px;
+}
